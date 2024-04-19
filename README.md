@@ -1,6 +1,7 @@
 - 👋 Olá Mundo, Eu sou @RafaelJMBR
-- 👀 Estou interessado em aprender sobre programação de jogos e sites 
-- 🌱 Estou cursando Curso Superior de Jogos Digitais na Estácio
+- 👀 Estou interessado em aprender sobre programação de jogos e Front-end 
+- 🌱 Estou cursando Ensino Superior de Jogos Digitais na Estácio
+- 🎮Faço Lives na Twitch, pode acompanhar pesquisando Vozão JoveM
 - 📫 Pode chegar em mim pelo email rafaeljmbrasil@gmail.com ou instagram @rafamachado41
 
 <!---
